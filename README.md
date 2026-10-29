@@ -42,11 +42,7 @@ The workbook includes 13 worksheets combined into a single dashboard:
 
 ## How to View
 
-1. Download `1788015212374_Spotify.twb` from this repository.
-2. Open it using [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Public](https://public.tableau.com/).
-3. Navigate to the **Spotify Music Analytics Dashboard** tab to view the combined dashboard.
-
-## Tools Used
-
-- **Tableau** for data visualization and dashboard design
-- **Spotify Tracks Dataset** as the data source
+1. Download `Spotify.twb` from this repository.
+2. Download the dataset `spotify-tracks-dataset-detailed.csv` (see Dataset section). Tableau may ask you to locate the file. Select it.
+3. Open `Spotify.twb` using [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Public](https://public.tableau.com/).
+4. Navigate to the **Spotify Music Analytics Dashboard** tab to view the combined dashboard.
