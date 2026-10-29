@@ -40,6 +40,9 @@ The workbook includes 13 worksheets combined into a single dashboard:
 - A small fraction of tracks (under 10%) are marked explicit.
 - Genre popularity varies significantly, with genres like *pop-film* and *k-pop* scoring highest on average popularity.
 
+## Author
+Pragati Gaddewar  
+
 ## How to View
 
 1. Download `Spotify.twb` from this repository.
