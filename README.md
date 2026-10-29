@@ -30,7 +30,7 @@ The workbook includes 13 worksheets combined into a single dashboard:
 | Energy vs Danceability | Scatter plot comparing energy and danceability across genres |
 | Popularity Distribution | Histogram showing how popularity scores are distributed |
 | Explicit vs Non-Explicit | Comparison of explicit vs non-explicit tracks |
-| Song Duration Distribution | Histogram of song durations (binned by minutes) |
+| Song Duration Analysis | Histogram of song durations (binned by minutes) |
 | Top 10 Artists by Popularity | Top 10 artists ranked by average popularity |
 
 ## Key Insights
