@@ -9,6 +9,7 @@ This project uses Tableau to visualize and derive insights from a detailed Spoti
 ## Dataset
 
 - **Source file:** `spotify-tracks-dataset-detailed.csv`
+- **Source:** Spotify Tracks Dataset from Kaggle
 - **Total records:** 113,999 songs
 - **Unique artists:** 31,437
 - **Key fields:** Track Name, Artists, Album Name, Track Genre, Popularity, Danceability, Energy, Duration (ms), Explicit, Acousticness, Liveness, Loudness, Speechiness, Tempo, and more
